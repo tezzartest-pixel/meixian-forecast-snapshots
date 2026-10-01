@@ -1,9 +1,10 @@
 {
  "months": [
-  "2026-09"
+  "2026-09",
+  "2026-10"
  ],
- "last_run_utc": "2026-09-30T14:43:31Z",
- "last_snapshot_bjt": "2026-09-30 22:43:31",
+ "last_run_utc": "2026-10-01T00:48:23Z",
+ "last_snapshot_bjt": "2026-10-01 08:48:23",
  "results": {
   "nmc_rest": "ok",
   "nmc_page": "ok",
