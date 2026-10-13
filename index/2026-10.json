@@ -1655,6 +1655,30 @@
    "source": "nmc_rest",
    "time_bjt": "2026-10-13 08:56:05",
    "bytes": 10457
+  },
+  {
+   "path": "snapshots/2026/10/13/cma_15d_124738.html.gz",
+   "source": "cma_15d",
+   "time_bjt": "2026-10-13 12:47:38",
+   "bytes": 65270
+  },
+  {
+   "path": "snapshots/2026/10/13/cma_7d_124738.html.gz",
+   "source": "cma_7d",
+   "time_bjt": "2026-10-13 12:47:38",
+   "bytes": 83971
+  },
+  {
+   "path": "snapshots/2026/10/13/nmc_page_124738.html.gz",
+   "source": "nmc_page",
+   "time_bjt": "2026-10-13 12:47:38",
+   "bytes": 75047
+  },
+  {
+   "path": "snapshots/2026/10/13/nmc_rest_124738.json.gz",
+   "source": "nmc_rest",
+   "time_bjt": "2026-10-13 12:47:38",
+   "bytes": 10453
   }
  ]
 }
